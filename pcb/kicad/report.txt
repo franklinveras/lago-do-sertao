@@ -1,0 +1,176 @@
+Info: Reading netlist file "/home/franklin/Documentos/Automação do Lago/placa_principal/placa_principal.net".
+
+Info: Using references to match components and footprints.
+
+Info: Checking netlist component footprint "C1:/5677A3F7:Capacitors_ThroughHole:C_Radial_D5_L11_P2".
+
+Info: Checking netlist component footprint "C2:/5677AE71:Capacitors_ThroughHole:C_Radial_D5_L11_P2".
+
+Info: Checking netlist component footprint "C3:/5666238D:Capacitors_ThroughHole:C_Disc_D3_P2.5".
+
+Info: Checking netlist component footprint "C4:/566623FB:Capacitors_ThroughHole:C_Disc_D3_P2.5".
+
+Info: Checking netlist component footprint "D1:/5678EB42:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D2:/56796AAA:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D3:/5679722E:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D4:/56798478:LEDs:LED-3MM".
+
+Info: Checking netlist component footprint "D5:/5669736B:Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10".
+
+Info: Checking netlist component footprint "D6:/56796A75:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "D7:/567971F9:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "D8:/56798443:Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10".
+
+Info: Checking netlist component footprint "DS1:/56666353:s@t_holes:SO16".
+
+Info: Checking netlist component footprint "IC1:/56661118:Housings_DIP:DIP-28_W7.62mm_LongPads".
+
+Info: Checking netlist component footprint "J1:/56698F89:Pin_Headers:Pin_Header_Straight_2x04".
+
+Info: Checking netlist component footprint "M1:/5675F8E9:s@turnal:SIL-2".
+
+Info: Checking netlist component footprint "M2:/5675FA5D:s@turnal:SIL-2".
+
+Info: Checking netlist component footprint "M3:/567C84A4:s@turnal:SIL-4".
+
+Info: Checking netlist component footprint "M4:/566E128A:s@turnal:SIL-2".
+
+Info: Checking netlist component footprint "M5:/566F27DB:s@turnal:SIL-2".
+
+Info: Checking netlist component footprint "M6:/566F2EC7:s@turnal:SIL-2".
+
+Info: Checking netlist component footprint "M7:/566F7F09:Connect:bornier2".
+
+Info: Checking netlist component footprint "M8:/566FC5B6:Connect:bornier2".
+
+Info: Checking netlist component footprint "M9:/567462E9:Connect:bornier2".
+
+Info: Checking netlist component footprint "M10:/5674630A:Connect:bornier2".
+
+Info: Checking netlist component footprint "M11:/56755BDE:Connect:bornier3".
+
+Info: Checking netlist component footprint "M12:/56698DE0:Connect:bornier2".
+
+Info: Checking netlist component footprint "M13:/56796AA0:Connect:bornier2".
+
+Info: Checking netlist component footprint "M14:/56797224:Connect:bornier2".
+
+Info: Checking netlist component footprint "M15:/5679846E:Connect:bornier2".
+
+Info: Checking netlist component footprint "M16:/566A2CB8:s@turnal:SIL-4".
+
+Info: Checking netlist component footprint "M17:/567392D7:Connect:bornier2".
+
+Info: Checking netlist component footprint "M18:/5678256F:Connect:bornier3".
+
+Info: Checking netlist component footprint "Q1:/5667ABD5:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Checking netlist component footprint "Q2:/566A40EE:TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads".
+
+Info: Checking netlist component footprint "Q3:/566A4194:TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads".
+
+Info: Checking netlist component footprint "Q4:/5669FE29:TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads".
+
+Info: Checking netlist component footprint "Q5:/566978BF:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Checking netlist component footprint "Q6:/56796A8A:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Checking netlist component footprint "Q7:/5679720E:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Checking netlist component footprint "Q8:/56798458:TO_SOT_Packages_THT:TO-92_Inline_Wide".
+
+Info: Checking netlist component footprint "R1:/566EA1D2:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R2:/566F27E1:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R3:/566F2ECD:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R4:/56665ABE:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R5:/566F7F0F:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R6:/566FC5BC:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R7:/5667B16D:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R8:/567462EF:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R9:/56746310:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R10:/567197F7:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R11:/567221FB:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R12:/5673352E:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R13:/5679103D:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R14:/56796AB0:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R15:/56797234:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R16:/5679847E:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R17:/5669847E:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R18:/56796A99:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R19:/5679721D:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R20:/56798467:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R21:/5677548F:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R22:/5677407B:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R23:/5673FB28:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "R24:/56766B65:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "REL1:/56696A34:s@turnal:RELAY-1RG".
+
+Info: Checking netlist component footprint "REL2:/56796A6F:s@turnal:RELAY-1RG".
+
+Info: Checking netlist component footprint "REL3:/567971F3:s@turnal:RELAY-1RG".
+
+Info: Checking netlist component footprint "REL4:/5679843D:s@turnal:RELAY-1RG".
+
+Info: Checking netlist component footprint "RV1:/566684F3:Resistors_ThroughHole:Resistor_Horizontal_RM10mm".
+
+Info: Checking netlist component footprint "SW1:/56665F6E:Buttons_Switches_SMD:SW_SPST_EVPBF".
+
+Info: Checking netlist component footprint "U1:/56778E15:TO_SOT_Packages_SMD:SOT-223".
+
+Info: Checking netlist component footprint "U2:/56666699:Housings_DIP:DIP-16_W7.62mm_LongPads".
+
+Info: Checking netlist component footprint "U3:/5668C6A5:Housings_DIP:DIP-16_W7.62mm_LongPads".
+
+Info: Checking netlist component footprint "U4:/566E5D26:Housings_DIP:DIP-16_W7.62mm_LongPads".
+
+Info: Checking netlist component footprint "Y1:/56661E21:Crystals:Crystal_HC49-U_Vertical".
+
+Error: Component 'Q2' pad 'G' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q2' pad 'D' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q2' pad 'S' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q3' pad 'G' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q3' pad 'D' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q3' pad 'S' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q4' pad 'G' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q4' pad 'D' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'Q4' pad 'S' not found in footprint 'TO_SOT_Packages_THT:TO-220_Neutral123_Vertical_LargePads'
+
+Error: Component 'RV1' pad '3' not found in footprint 'Resistors_ThroughHole:Resistor_Horizontal_RM10mm'
+
